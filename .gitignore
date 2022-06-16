@@ -1,3 +1,14 @@
+*/.idea
+*/.vscode
+*/input
+*/input_small
+*/input_small_2
+*/notes.txt
+*/test_input.txt
+*/input_smaller
+*/input_complex
+
+
 # Prerequisites
 *.d
 
